@@ -38,17 +38,13 @@ O visitante pode:
 
 O projeto está disponível online e pode ser acessado através do link abaixo:
 
-🌐 **[Acessar projeto online](#)**
+🌐 **[Acessar projeto online](https://cgm-moveis.vercel.app/)**
 
 ---
 
 ## 📸 Preview
 
-> Adicione aqui uma imagem ou screenshot do projeto após realizar o deploy.
-
-```text
-Preview da landing page CGM Móveis
-```
+<img width="1904" height="952" alt="image" src="https://github.com/user-attachments/assets/61d9e4f5-8fc2-48d1-b84f-0b8bd531ea5b" />
 
 ---
 
