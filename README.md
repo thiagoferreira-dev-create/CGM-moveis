@@ -360,28 +360,6 @@ O objetivo é evitar que o visitante precise procurar informações importantes 
 
 ---
 
-## 🚀 Próximas melhorias
-
-O projeto foi estruturado pensando em futuras evoluções.
-
-Possíveis funcionalidades:
-
-* [ ] Formulário completo para solicitação de orçamento;
-* [ ] Upload de referências para o projeto;
-* [ ] Seleção do tipo de ambiente;
-* [ ] Formulário de briefing;
-* [ ] Galeria dinâmica integrada a uma API;
-* [ ] Área administrativa;
-* [ ] Integração com banco de dados;
-* [ ] Sistema de gerenciamento de projetos;
-* [ ] Depoimentos reais de clientes;
-* [ ] Integração com avaliações do Google;
-* [ ] Otimização avançada de imagens;
-* [ ] Página individual para cada serviço;
-* [ ] Blog com conteúdo sobre móveis sob medida e decoração.
-
----
-
 ## 🎯 Objetivo do projeto
 
 Este projeto foi desenvolvido como parte da construção do meu portfólio de desenvolvimento front-end.
